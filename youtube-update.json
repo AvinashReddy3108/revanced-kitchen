@@ -1,6 +1,6 @@
 {
-  "version": "v19.44.39 (patches: 5.5.1)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/AvinashReddy3108/revanced-kitchen/releases/download/3/youtube-revanced-extended-magisk-v19.44.39-arm64-v8a.zip",
+  "version": "v19.47.53 (patches: 5.6.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/AvinashReddy3108/revanced-kitchen/releases/download/4/youtube-revanced-extended-magisk-v19.47.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/AvinashReddy3108/revanced-kitchen/update/build.md"
 }
