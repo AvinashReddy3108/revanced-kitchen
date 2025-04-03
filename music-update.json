@@ -1,6 +1,6 @@
 {
-  "version": "v8.12.53 (patches: 5.6.1)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/AvinashReddy3108/revanced-kitchen/releases/download/4/music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip",
+  "version": "v8.12.53 (patches: 5.6.2)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/AvinashReddy3108/revanced-kitchen/releases/download/5/music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/AvinashReddy3108/revanced-kitchen/update/build.md"
 }
